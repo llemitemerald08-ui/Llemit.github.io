@@ -1,10 +1,10 @@
 :root {
-    --navy: #5d174d;
-    --blue: #b52e69;
-    --ink: #331726;
-    --muted: #735b6e;
-    --surface: #f4f7fb;
-    --white: #ffffff;
+    --navy: #171c5d;
+    --blue: hsl(280, 59%, 45%);
+    --ink: #292739;
+    --muted: #5b5c73;
+    --surface: #acc9ed;
+    --white: #bab3e3;
     --section-space: 72px;
 }
 
